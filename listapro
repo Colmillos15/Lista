@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-ALLOW-CACHE:YES
+#PLAYLIST: Pelicula
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://archive.org/download/Caratulas-de-peliculas/Gato%20con%20botas%20el%20%C3%BAltimo%20deseo.jpg" group-title="Infantil", Gato con botas: el último deseo (2022)
+http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://archive.org/download/Caratulas-de-peliculas/Super%20Mario%20Bros.%20La%20pel%C3%ADcula.jpg" group-title="Infantil", Super Mario Bros.: La película (2023)
+http://51.81.208.167/pelis2023/The.Super.Mario.Bros.Movie.2023.mp4
+
+
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://archive.org/download/Caratulas-de-peliculas/Black%20Panther%20Wakanda%20Forever.jpg" group-title="Marvel", Black Panther: Wakanda Forever (2022)
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
