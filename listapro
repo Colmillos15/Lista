@@ -15,3 +15,6 @@ http://45.179.164.59:8181/Peliculas/Lucy.2014.bluray-latino-e-ingles-subt.mp4
 http://51.81.208.167/movies/Dos_polic%c3%adas_rebeldes_(1995).mp4
 #EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSud8DnTAvVsC5BP1gsOsC04urEPPiaJvJBZ5hfb3CZU6Lj5nmK" group-title="Pelicula - Acción/Comedia", Acción/Comedia, BAD BOYS II: Vuelven más rebeldes (2003)
 http://51.81.208.167/movies/Bad_Boys_II_-_Vuelven_m%c3%a1s_rebeldes_(2003).mp4
+
+#EXTINF:137 tvg-country="ES" tvg-language="Spanish"	 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/dc8vs0BEooy8jjspR1pOGeZEBSE.jpg" group-title="Pelicula - Crimen/Suspenso", Crimen/Suspenso,Rápidos y Furiosos: Hobbs & Shaw (2019)
+http://51.81.208.167/cine/Fast.and.furious.presents.hobbs.and.shaw.2019.1080p-dual-lat-cinecalidad.is.mp4
