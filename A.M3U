@@ -4,6 +4,8 @@ http://..
 *En Emisión
 #EXTINF:-1 tvg-logo="https://archive.org/download/1051-dc/Nueva%20carpeta/ANIOPEDPOR.png",OP/ED ANIME
 https://dl.dropbox.com/s/u7t8iajsuktl3fr/OPENINGENDINGNEW.M3U
+#EXTINF:-1 tvg-logo="https://archive.org/download/sam_20230716/sam.png",Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
+https://bit.ly/3pRcuA0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZWZwHJ/hidive-kubo-invisible-winter-2023-836x470-1.jpg",Kubo-san wa Mob wo Yurusanai
 https://dl.dropbox.com/s/8va10jj71z6eyru/T0N24RI284635D.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q5pLgj4/Screenshot-20230423-055656-Brave.jpg",Boku no Kokoro no Yabai Yatsu
@@ -18,6 +20,8 @@ https://www.dropbox.com/scl/fi/qf6xvh14i1k9krgcbo7ww/Chainsaw-man.m3u?dl=0&rlkey
 https://dl.dropbox.com/s/1c90w77nbj9c590/Bleach.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgW8d1t/cover00.jpg",Naruto Latino
 https://dl.dropbox.com/s/34qikwdbcycbzvj/naruto000.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gt1kSfh/port.jpg",Naruto Shipudden
+https://dl.dropbox.com/s/cqwxfq2hurtcpdq/NarutoS.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sVQ0w43/cover02.jpg",Naruto Shipudden
 https://dl.dropbox.com/s/34bla837b2tp2ea/naruto2.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P9nfrpx/Boruto.jpg",Boruto: Naruto Next Generations
@@ -837,6 +841,8 @@ https://dl.dropbox.com/s/m1yel9o1slkk2v1/Toradora.m3u
 https://dl.dropbox.com/s/6s6bpkebad3as87/tower_of_god.m3u
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/77680/tvthumb/T_77680.jpg",Trigun
 http://archive.org/download/kuhlman_1/Series/Anime/Trigun.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/tri_20230711/TRI.png",Trigun (1998)
+http://bit.ly/43f6JcV
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/78967/tvthumb/T_78967.jpg",Trinity Blood
 https://dl.dropbox.com/s/1rrm99u29qj2vzn/trinity_blood.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dz6Y9mL/trc0.png",Tsubasa: Reservoir Chronicle
