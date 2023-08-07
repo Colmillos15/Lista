@@ -4,6 +4,8 @@ http://..
 *En Emisión
 #EXTINF:-1 tvg-logo="https://archive.org/download/1051-dc/Nueva%20carpeta/ANIOPEDPOR.png",OP/ED ANIME
 https://dl.dropbox.com/s/u7t8iajsuktl3fr/OPENINGENDINGNEW.M3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4m9NqP5/PORT.jpg",Jujutsu Kaisen 2
+https://bit.ly/3q1INfT
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPRXh9H/port.jpg",Shumatsu no Valkyrie 
 https://bit.ly/43CmV8i
 #EXTINF:-1 tvg-logo="https://archive.org/download/sam_20230716/sam.png",Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
@@ -34,6 +36,8 @@ https://dl.dropbox.com/s/62jd6aol8mgtn8u/Boruto.m3u
 https://dl.dropbox.com/s/u3frkkedhcf18zf/dragon_ball_saga.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNbkKg1/cover00.jpg",Hunter X Hunter
 https://dl.dropbox.com/s/7ci3yst39hpf52e/hunter_x_hunter.m3u
+#EXTINF:-1 tvg-logo="https://archive.org/download/pohu_20230803/pohu.png",Hunter X Hunter (2011)
+https://bit.ly/44UyhG8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsBkrx6/cover00.jpg",LAT-Amor tras la Dominacion Mundial
 https://dl.dropbox.com/s/zmggcb9yb37mr6x/Koi_wa_Sekai_Seifuku_no_Ato.m3u
 
@@ -441,7 +445,9 @@ https://dl.dropbox.com/s/h50jxv7qa0q4rlz/inukami.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BTH3d6r/cover00.jpg",Inuyasha
 https://dl.dropbox.com/s/w635agni6anb9tp/inuyasha00.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TrQJbCC/cover00.jpg",Inuyasha Kanketsu-hen
-https://dl.dropbox.com/s/i9kcwvaezo90gjp/inu07.m3u
+https://bit.ly/43IAHWU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TrQJbCC/cover00.jpg",Inuyasha Kanketsu-hen Latino
+https://bit.ly/3Dyb68D
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxBB6r0/cover00.jpg",Invasion en las Alturas
 https://dl.dropbox.com/s/470njdx54eih042/Invasion.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9dbm3S/cover00.png",Iriya no Sora UFO no Natsu
