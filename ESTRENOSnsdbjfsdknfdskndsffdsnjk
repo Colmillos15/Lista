@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="ANIMES",EFZ
-http://..
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Colmillos15/Lista/main/PORT.jpg",Undead Unlock
-https://moodle1.myyschool.xyz/tejina-senpai/TmVBQURscHlBckhzcUZDbWsvaDJDZEJoRjhPQmdSbkMxQitrelgxOFh3Yz0.m3u8
+#EXT-X-ALLOW-CACHE:YES
+#PLAYLIST: Animes
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images5.alphacoders.com/133/1337147.png" group-title="Undead Unlock", Capitulo 1
+https://moodle1.myyschool.xyz/Y21ZRmRJcjV1UDVxUGIrZTZoK3IrK2I5WVRrWnZlYm0yZmZvK3lsaFJEUT0.m3u8
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images5.alphacoders.com/133/1337147.png" group-title="Undead Unlock", Capitulo 2
+https://moodle1.myyschool.xyz/S0tRUmx2ZFZET1NJUXhNb2xCVkFETWtOK3JWL3ozMTB0VkV3UmxlNzJvTT0.m3u8
+#EXTINF:128 tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images5.alphacoders.com/133/1337147.png" group-title="Undead Unlock", Capitulo 3
+https://moodle1.myyschool.xyz/THJ4RVIydjZ3Wk9TYVdyWDlINDFYRklVdytPYnhWVXU5NHVkcjg2K3ozMD0.m3u8
